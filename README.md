@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 |----|-----|-------|
 |[Movies](https://p-movielist.netlify.app)|Netlify|Additionally, movieList serves as a hiring process task for unknown people :)|
 |----|-----|-------|
-|[Client Panel](https://p-react-redux-login.web.app/)|Firebase|Using firebase and firestore, learn more about reactjs in a traversy media course|
+|[Client Panel](https://p-react-redux-login.web.app/)|Firebase|Using firebase and firestore, learn more about reactjs in a traversy media course. please use proxy!|
