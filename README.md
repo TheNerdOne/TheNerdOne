@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 |Name|Deployed on|Description|
-|----|-----|-------|
+||||
 |[Q&A](https://xino.netlify.app)|Netlify|It was a simple task for Xino Digital due to their hiring process|
 |----|-----|-------|
 |[Light shop](https://thenerdone.github.io/toplearn/#/)|GH_Pages||
