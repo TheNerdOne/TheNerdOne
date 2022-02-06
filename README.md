@@ -13,14 +13,14 @@ You can click the Preview link to take a look at your changes.
 |----|-----|-------|
 |[Q&A](https://xino.netlify.app)|Netlify|It was a simple task for Xino Digital due to their hiring process|
 |----|-----|-------|
-|[Light shop](https://thenerdone.github.io/toplearn/#/)|GH_Pages||
+|[Light shop](https://thenerdone.github.io/toplearn/#/)|GH_Pages|I learned reactjs from an online course, and this is my final project|
 |----|-----|-------|
-|[Contact Manager](https://thenerdone.github.io/contactmanager-context/#/)|GH_Pages|with context api in react|
+|[Contact Manager](https://thenerdone.github.io/contactmanager-context/#/)|GH_Pages|Practice using context-api with reactjs from traversy media courses|
 |----|-----|-------|
-|[Contact Manager](https://thenerdone.github.io/contactmanager-redux/#/)|GH_Pages|with react-redux and redux-thunk|
+|[Contact Manager](https://thenerdone.github.io/contactmanager-redux/#/)|GH_Pages|Practice using react-redux and redux-thunk with reactjs from traversy media courses|
 |----|-----|-------|
-|[todo App](https://thenerdone.github.io/simpletodo/)|GH_Pages||
+|[todo App](https://thenerdone.github.io/simpletodo/)|GH_Pages|Here's a scratch code I wrote for what I learned from global state and reactjs|
 |----|-----|-------|
-|[Movies](https://p-movielist.netlify.app)|Netlify||
+|[Movies](https://p-movielist.netlify.app)|Netlify|Additionally, movieList serves as a hiring process task for unknown people :)|
 |----|-----|-------|
-|[Client Panel](https://p-react-redux-login.web.app/)|Firebase||
+|[Client Panel](https://p-react-redux-login.web.app/)|Firebase|Using firebase and firestore, learn more about reactjs in a traversy media course|
