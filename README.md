@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 |----|-----|-------|
 |[Light shop](https://thenerdone.github.io/toplearn/#/)|GH_Pages|I learned reactjs from an online course, and this is my final project|
 |----|-----|-------|
-|[Contact Manager](https://thenerdone.github.io/contactmanager-context/#/)|GH_Pages|Practice using context-api with reactjs from traversy media courses|
+|[Contact Manager](https://thenerdone.github.io/contactmanager_context/#/)|GH_Pages|Practice using context-api with reactjs from traversy media courses|
 |----|-----|-------|
-|[Contact Manager](https://thenerdone.github.io/contactmanager-redux/#/)|GH_Pages|Practice using react-redux and redux-thunk with reactjs from traversy media courses|
+|[Contact Manager](https://thenerdone.github.io/contactmanager_redux/#/)|GH_Pages|Practice using react-redux and redux-thunk with reactjs from traversy media courses|
 |----|-----|-------|
 |[todo App](https://thenerdone.github.io/simpletodo/)|GH_Pages|Here's a scratch code I wrote for what I learned from global state and reactjs|
 |----|-----|-------|
