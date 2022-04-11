@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pouria chegeni
-- 👀 I’m interested in front-end coding technologies and javascript
+- 👀 I’m interested in front-end technologies and javascript
 - 🌱 I learned react and redux and etc. you can see what I'm learned in my project I've upload.
 - 💞️ I’m looking to collaborate on learning next.js and then react-native
 - 📫 How to reach <a href="https://www.linkedin.com/in/pouria-chegeni-aa4863106/">me</a> ......
