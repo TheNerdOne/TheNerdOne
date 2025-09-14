@@ -1,13 +1,15 @@
 - 👋 Hi, I’m pouria chegeni
-- 👀 I’m interested in front-end technologies and javascript
-- 🌱 I learned react and redux and etc. you can see what I'm learned in my project I've upload.
-- 💞️ I’m looking to collaborate on learning next.js and then react-native
+- 👀 I’m interested in fintech business and technologies.
+- 🌱 I learned developing tools like react, redux, C# and etc. you can see what I'm learned in my project I've upload.
+- 💞️ I’m looking to collaborate on learning dotnet
 - 📫 How to reach <a href="www.linkedin.com/in/pouria-chegeni/">me</a> ......
 
 <!---
 TheNerdOne/TheNerdOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- some of simple hobbies and projects :
+
 
 |Name|Deployed on|Description|
 |----|-----|-------|
